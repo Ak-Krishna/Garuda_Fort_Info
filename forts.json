@@ -1,0 +1,184 @@
+{
+  "Forts": [
+    {
+      "name": "Achala Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Nashik",
+      "information": "Link",
+      "height": "4024ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Ajinkyatara Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Satara",
+      "information": "Link",
+      "height": "4400ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Devgad Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Sindhudurg",
+      "information": "Link",
+      "height": "250ft",
+      "type": "Sea Fort"
+    },
+    {
+      "name": "Harihar Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Tryambakeshewar",
+      "information": "Link",
+      "height": "3676ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Harihar Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Tryambakeshewar",
+      "information": "Link",
+      "height": "3676ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Karnala Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Karnala",
+      "information": "Link",
+      "height": "1440ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Markandya Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Nashik",
+      "information": "Link",
+      "height": "4383ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Karnala Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Karnala",
+      "information": "Link",
+      "height": "1440ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Naldurg Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Osmanabad",
+      "information": "Link",
+      "height": "",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Panhala Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Panhala",
+      "information": "Link",
+      "height": "2772ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Raigad Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Raigad",
+      "information": "Link",
+      "height": "4440ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Sangram Durga Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Pune",
+      "information": "Link",
+      "height": "",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Shivneri Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Pune",
+      "information": "Link",
+      "height": "",
+      "type": "Fort"
+    },
+    {
+      "name": "Siddhagad Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Thane",
+      "information": "Link",
+      "height": "3215.22ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Udgir Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Latur",
+      "information": "Link",
+      "height": "6900ft",
+      "type": "Fort"
+    },
+    {
+      "name": "Vijay Durg Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Sindhudurg",
+      "information": "Link",
+      "height": "",
+      "type": "Sea Fort"
+    },
+    {
+      "name": "Vijaygad Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Ratnagiri",
+      "information": "Link",
+      "height": "",
+      "type": "Sea Fort"
+    },
+    {
+      "name": "Rajgad Fort",
+      "builtBy": "",
+      "year": "",
+      "city": "Pune",
+      "information": "Link",
+      "height": "4514.43ft",
+      "type": "Hill Fort"
+    },
+    {
+      "name": "Janjira Fort",
+      "builtBy": "Malik Ambar",
+      "year": "1969",
+      "city": "Pune",
+      "information": "Link",
+      "height": "40ft",
+      "type": "Sea Fort"
+    },
+    {
+      "name": "Daulatbad Fort",
+      "builtBy": "Malik Ambar",
+      "year": "1969",
+      "city": "Aurangabad",
+      "information": "Link",
+      "height": "656ft",
+      "type": "Hill Fort"
+    }
+  ]
+}
